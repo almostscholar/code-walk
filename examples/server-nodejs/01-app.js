@@ -7,7 +7,7 @@
 // http servers and clients. To review more information about the http package, see
 // `https://nodejs.org/docs/latest-v12.x/api/http.html`. Uncomment the require line below
 // to import the 'http' package and type `node 01-app.js` to start the serve (ctrl-c to stop)
-const http = require('http')
+// const http = require('http')
 
 const hostname = '127.0.0.1'
 // ********
