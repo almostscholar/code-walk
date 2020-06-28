@@ -1,0 +1,18 @@
+[
+  {
+    "type": "goblin",
+    "name": "blarghy",
+    "id": 1,
+    "health": 100,
+    "attack": 2,
+    "defense": 3
+  },
+  {
+    "type": "goblin",
+    "name": "shmarmy",
+    "id": 2,
+    "health": 100,
+    "attack": 2,
+    "defense": 3
+  }
+]
