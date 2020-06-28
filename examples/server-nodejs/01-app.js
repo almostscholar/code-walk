@@ -1,6 +1,3 @@
-// templated code was copied from https://nodejs.org/en/docs/guides/getting-started-guide/
-// on 06/28/2020
-
 // ********
 // STEP 1: Open a terminal, navigate to this file, and type `node --version` to verify your
 // node.js installation. These snippets were created with v12.18.1 in mind
