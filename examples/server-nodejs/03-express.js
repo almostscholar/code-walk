@@ -5,9 +5,9 @@ const app = express()
 // ********
 // STEP 1: To handle POST data, express requires us to configure a body-parser.
 // In some versions, a separate body-parser must be installed. But for >= v4.16.0
-// we can use express's built in body parser. Uncomment the line below to do so.
-app.use(express.json())
-app.use(express.urlencoded({ extended: true }))
+// we can use express's built in body parser. Uncomment the lines below to do so.
+// app.use(express.json())
+// app.use(express.urlencoded({ extended: true }))
 
 // *********
 // STEP 2: Note - express.json() and express.urlencoded() return middleware. Other
