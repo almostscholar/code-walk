@@ -13,7 +13,7 @@ const hostname = '127.0.0.1'
 // ********
 // STEP 3: The server can listen to any unassigned port. Change the port number below
 // to something like 3001 and restart the node-js server (`node 01-app.js`).
-// const port = 3000
+const port = 3000
 
 const requestHandler = function (req, res) {
   // ********
